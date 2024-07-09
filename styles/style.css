@@ -528,6 +528,9 @@ color: #666;
 text-shadow: 0 0 4px  #e52d27;
 }
 
+body {
+    background-color: coral;
+}
 
 @media (max-width:1140px) {
     .commerce__box,
